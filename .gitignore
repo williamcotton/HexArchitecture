@@ -1,0 +1,5 @@
+bin/
+obj/
+*.fs.ts
+node_modules/
+fable_modules/
